@@ -1,4 +1,4 @@
-# Project FastAPI & NextJS
+# Project FastAPI & Next
 
 Web software
 
